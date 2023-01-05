@@ -1,0 +1,111 @@
+.container {
+  border: 1px solid rgb(5, 67, 10);
+  border-radius: 25px;
+  margin-top: 10px;
+  max-width: 800px;
+  padding: 0;
+  background-color: rgb(217, 247, 166);
+}
+
+.head {
+  margin-left: 300px;
+  max-width: 450px;
+}
+
+h1, h5 {
+    color: rgb(7, 160, 112);
+    text-align: center;
+    margin-right: 10px;
+    padding-right: 0;
+    width: 250px;
+    margin-top: 20px;
+}
+
+#main-icon {
+  color: rgb(7, 160, 112);
+  font-size: 40px;
+  margin-top: 20px;
+  margin-left: 0;
+  text-align: center;
+  
+}
+
+.choice {
+ position: fixed;
+ top: 30px;
+ margin-right: 0;
+ line-height: 30px;
+ font-size: 20px;
+}
+
+.current-location {
+  border: 1px solid rgb(5, 67, 10);
+  border-radius: 20px;
+  padding: 5px;
+  background-color: rgb(196, 245, 121);
+}
+
+.current-location:hover {
+  background-color: green;
+}
+
+.enter-city {
+  border: 1px solid rgb(5, 67, 10);
+  border-radius: 15px;
+  padding: 8px;
+  background-color: rgb(209, 233, 172);
+}
+
+.search {
+  border: 1px solid rgb(5, 67,10);
+  border-radius: 10px;
+  padding: 5px;
+  background-color: rgb(196, 245, 121);
+}
+
+.search:hover {
+  background-color: green;
+}
+
+ul.list-group {
+margin-right: 0;
+}
+
+.list-group {
+max-width: 300px;
+margin-left: 30px;
+
+}
+
+.list-group-item {
+  border: none;
+  margin: 0 60px;
+  background-color: rgb(217, 247, 166);
+}
+
+.d-flex {
+  padding: 0;
+}
+
+.badge {
+  font-size: 0.85em
+}
+
+.icons {
+  color: rgb(2, 90, 31);
+  font-size: 40px;  
+}
+
+.align-items-start, .align-items-end, .icons {
+  max-width: 750px;
+  margin: 0 22px;
+  text-align: center;
+}
+
+.align-items-start {
+  padding: 0 10px;
+}
+
+.align-items-end {
+  padding-bottom: 10px;
+}
