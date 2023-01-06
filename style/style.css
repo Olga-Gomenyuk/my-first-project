@@ -1,3 +1,4 @@
+
 .container {
   border: 1px solid rgb(5, 67, 10);
   border-radius: 25px;
@@ -108,4 +109,13 @@ margin-left: 30px;
 
 .align-items-end {
   padding-bottom: 10px;
+}
+
+.author {
+  display: inline-block;
+}
+
+.by-coded {
+  margin-left: 0px;
+background-color: no;
 }
